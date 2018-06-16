@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ktko/ktko.github.io/master/media/profilepic.png" width="100" height="100" title="Logo">
+  <img src="https://raw.githubusercontent.com/ktko/ktko.github.io/master/media/profilepic.png" width="200" height="200" title="Logo">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ktko/ktko.github.io/master/media/katie.png" width="256" title="Logo">
