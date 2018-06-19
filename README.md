@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ktko/ktko.github.io/master/media/profilepic.png" width="200" height="200" title="Logo">
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/ktko/ktko.github.io/master/media/katie.png" width="256" title="Logo">
 </p>
 <p align="center">University of Illinois at Urbana-Champaign</p>
