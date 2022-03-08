@@ -5,4 +5,4 @@
 <p align="center">B.S. Computer Science</p><br/>
 
 ## Introduction
-Incoming Junior at the University of Illinois at Urbana-Champaign, pursuing a B.S. Computer Science in the College of Engineering. Interested in mobile application development, but continuing to explore different concentrations and expanding my experiences in coding. Always open and searching for more opportunities to grow in my skills.
+Software Engineer II at JPMorgan Chase & Co in Chicago. Graduated with a B.S. Computer Science in the College of Engineering at the University of Illinois in Urbana-Champaign. Experienced in web-application back-end development in Java and Spring, but continuing to explore different concentrations and expanding my experiences in coding. Always open and searching for more opportunities to grow in my skills.
